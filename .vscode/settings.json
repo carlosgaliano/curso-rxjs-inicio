@@ -1,4 +1,8 @@
 {
     "commentTranslate.multiLineMerge": false,
-    "commentTranslate.source": "Google"
+    "commentTranslate.source": "Google",
+    "commentTranslate.targetLanguage": "es",
+    "livePreview.autoRefreshPreview": "On All Changes in Editor",
+    "livePreview.portNumber": 8081,
+    "livePreview.debugOnExternalPreview": false
 }
